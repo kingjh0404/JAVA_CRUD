@@ -6,7 +6,7 @@
 <img src='https://github.com/kingjh0404/java_CRUD/blob/master/screenshots/설치한%20IDE.png?raw=true'>
 
 ### 단어추가
-<img src='https://github.com/kingjh0404/java_CRUD/blob/master/screenshots/4.%20단어추가.png?raw=true'> 
+<img src='https://github.com/kingjh0404/java_CRUD/blob/master/screenshots/4.png?raw=true'> 
 
 ### 모든 단어보기
 <img src='https://github.com/kingjh0404/java_CRUD/blob/master/screenshots/1.%20모든%20단어보기.png?raw=true'> 
