@@ -11,4 +11,8 @@
 ### 모든 단어보기
 <img src='https://github.com/kingjh0404/java_CRUD/blob/master/screenshots/1.%20모든%20단어보기.png?raw=true'> 
 
+### 나가기
+<img src='https://github.com/kingjh0404/java_CRUD/blob/master/screenshots/0.%20나가기.png?raw=true'> 
+
+
 
