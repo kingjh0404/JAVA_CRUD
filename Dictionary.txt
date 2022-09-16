@@ -1,5 +1,5 @@
 1|electric|전기의, 전기를 생산하는 
 2|eye-opener|눈이 휘둥그레질 만한 사건
 3|superintendent|관리
-2||연필
+2|pencil|연
 
