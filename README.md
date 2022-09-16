@@ -26,6 +26,10 @@
 ### 단어 삭제
 <img src='https://github.com/kingjh0404/java_CRUD/blob/master/screenshots/6.png?raw=true'>
 
+### 파일 저장
+
+<img src='https://github.com/kingjh0404/java_CRUD/blob/master/screenshots/7.png?raw=true'>
+
 ### 프로젝트 구현하면서 소감, 어려움, 또는 건의사항
 #### 제가 자바로 CRUD를 구현할 수 있다는 것에 대해 많은 뿌듯함을 느꼈습니다. 저번학기때 자바를 배운 후 방학동안 복습하지 않아서 어려움이 많았지만 강의를 보고 복습하며 다시 코드를 짜보는것이 공부하는 것에 효과적이였다는 것을 느꼈습니다.
 
