@@ -180,7 +180,7 @@ public class WordCRUD implements ICRUD{
 
 	public void searchWord() {
 		// TODO Auto-generated method stub
-		System.out.print("=> 원하는 단어는? ");
+		System.out.print("=> 원하는 단어는?   ");
 		String keyword = s.next();
 		listAll(keyword);
 		
