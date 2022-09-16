@@ -172,7 +172,7 @@ public class WordCRUD implements ICRUD{
 
 	public void searchlevel() {
 		// TODO Auto-generated method stub
-		System.out.print("=> 원하는 레벨은? (1~3) ");
+		System.out.print("=> 원하는 레벨은?  (1~3) ");
 		int level = s.nextInt(); 
 		listAll(level);
 		
